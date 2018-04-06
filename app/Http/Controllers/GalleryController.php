@@ -12,6 +12,8 @@ class GalleryController{
 
         $menu_en = TopMenu::getTopMenu();
         $left_menu = LeftMenu::getLeftMenu();
+        
+        //test
 
         return view('gallery', [
             'menu_en' => $menu_en,
