@@ -1,0 +1,18 @@
+#sidebar-menu span{
+    font-family: 'PT Sans', sans-serif;
+    font-weight: 700;
+}
+
+#intro-inner .description{
+    font-family: 'PT Sans', sans-serif;
+    font-weight: 700;
+}
+
+.widget.widget-info p, .widget.widget-info span, .widget.widget-info h3, #content .content-text h1{
+    font-family: 'PT Sans', sans-serif;
+    font-weight: 700;
+}
+
+.location_content p{
+    font-family: 'PT Sans', sans-serif;
+}
